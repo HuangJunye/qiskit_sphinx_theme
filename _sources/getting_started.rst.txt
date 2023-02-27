@@ -1,3 +1,7 @@
+.. _getting-started:
+
 ###############
-Getting started
+Getting Started
 ###############
+
+.. include:: others/under_construction.rst
